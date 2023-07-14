@@ -1,7 +1,5 @@
 # To-Do-List-App
-<p align="center">
-  <img src= "![To_Do List](https://github.com/medlyosha/To-Do-List-App/assets/118524698/5bb4622e-2e65-4e44-8fe3-2181915c2fb5)" alt= "![To_Do List](https://github.com/medlyosha/To-Do-List-App/assets/118524698/5bb4622e-2e65-4e44-8fe3-2181915c2fb5)" width="100%">
-</p>
+<img src="screenshot.png" alt="![To_Do List](https://github.com/medlyosha/To-Do-List-App/assets/118524698/6afa80e4-7005-40aa-b3af-33b3498a9640)" width="375" height="667">
 A simple to-do list application that allows you to create, mark, and delete tasks. Implemented using the MVC architecture and UIKit.
 
 ## Features
