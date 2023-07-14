@@ -1,5 +1,5 @@
 # To-Do-List-App
-![To_Do List](https://github.com/medlyosha/To-Do-List-App/assets/118524698/6afa80e4-7005-40aa-b3af-33b3498a9640)
+<img src="![To_Do List](https://github.com/medlyosha/To-Do-List-App/assets/118524698/6afa80e4-7005-40aa-b3af-33b3498a9640)" alt="Скриншот iPhone 14 Pro" width="1170" height="2532">
 A simple to-do list application that allows you to create, mark, and delete tasks. Implemented using the MVC architecture and UIKit.
 
 ## Features
