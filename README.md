@@ -1,6 +1,6 @@
 # To-Do-List-App
 <p align="center">
-  <img src=![To_Do List](https://github.com/medlyosha/To-Do-List-App/assets/118524698/31ab40fd-b17b-4feb-9db2-dc2e364ae39b) 
+  <img src="![To_Do List](https://github.com/medlyosha/To-Do-List-App/assets/118524698/31ab40fd-b17b-4feb-9db2-dc2e364ae39b)" 
  alt="Description of the image" width="375">
 </p>
 
