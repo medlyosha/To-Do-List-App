@@ -1,6 +1,7 @@
 # To-Do-List-App
-<img src="![To_Do List](https://github.com/medlyosha/To-Do-List-App/assets/118524698/6afa80e4-7005-40aa-b3af-33b3498a9640)" alt="Скриншот iPhone 14 Pro" width="1170" height="2532">
-A simple to-do list application that allows you to create, mark, and delete tasks. Implemented using the MVC architecture and UIKit.
+![To_Do List](https://github.com/medlyosha/To-Do-List-App/assets/118524698/6afa80e4-7005-40aa-b3af-33b3498a9640)" 
+
+A simple To-Do List application that allows you to create, mark, and delete tasks. Implemented using the MVC architecture and UIKit without Storyboard.
 
 ## Features
 
@@ -13,6 +14,11 @@ A simple to-do list application that allows you to create, mark, and delete task
 - iOS 13.0 and above
 - Xcode 11.0 and above
 
+## Used Libraries
+
+- SnapKit
+- CoreData
+  
 ## Installation
 
 1. Clone the repository to your local machine:
