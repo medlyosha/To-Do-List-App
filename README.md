@@ -9,11 +9,6 @@ A simple To-Do List application that allows you to create, mark, and delete task
 - Mark tasks as completed.
 - Delete tasks.
 
-## Requirements
-
-- iOS 13.0 and above
-- Xcode 11.0 and above
-
 ## Used Libraries
 
 - SnapKit
